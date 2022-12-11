@@ -1,0 +1,53 @@
+Body{
+    padding: 0px;
+    margin: 0px;
+}
+
+.main{
+    background-color: rgb(128, 128, 128);
+    padding: 10px 30px 10px 30px;;
+}
+.Logo{
+    background-color: purple;
+    padding: 10px;
+    margin-bottom: 5px;
+}
+.Nav{
+    background-color: skyblue;
+    margin-bottom: 5px;
+    text-align: center;
+}
+.Header{
+    background-color: blue;
+    margin-bottom: 20px;
+    height: 100px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Sidebar{
+    background-color: yellow;
+    margin-bottom: 10px;
+    height: 300px;
+    width: 300px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Body{
+    background-color: greenyellow;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    height: 300px;
+    width: 1200px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Footer{
+    background-color: orange;
+    text-align: center;
+}
